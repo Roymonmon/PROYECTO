@@ -1,9 +1,4 @@
 
-
-
-
-
-[hola.html.html](https://github.com/user-attachments/files/25455263/hola.html.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
