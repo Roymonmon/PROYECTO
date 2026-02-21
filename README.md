@@ -206,9 +206,9 @@
      <section id="galeria">
         <h2>Galería del Proyecto</h2>
         <div class="galeria">
-            <img src="ft10.jpeg" alt="Proceso 1">
-            <img src="ft6.jpeg" alt="Proceso 2">
-            <img src="ft7.jpeg" alt="Proceso 3">
+            <img src="![ft4](https://github.com/user-attachments/assets/2e9d98a3-2075-4450-b18b-1dab2be8e494)" alt="Proceso 1">
+            <img src="![FT1](https://github.com/user-attachments/assets/3c385e28-4fe2-4cbf-b7b8-8ff01331464e)" alt="Proceso 2">
+            <img src="![ft2](https://github.com/user-attachments/assets/1d3c18ef-23ec-4cd3-8126-26ab40750409)" alt="Proceso 3">
             <img src="ft8.jpeg" alt="Proceso 4">
         </div>
     </section>
