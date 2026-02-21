@@ -1,18 +1,4 @@
 
-![ft7](https://github.com/user-attachments/assets/e093671a-833e-45a6-91a1-f7b8030becf4)
-
-![FT1](https://github.com/user-attachments/assets/0648f607-03cc-420c-b8c5-54fd45fc8745)
-![ft10](https://github.com/user-attachments/assets/4a879f6e-4786-45ca-911f-d33941765f4f)
-
-![ft2](https://github.com/user-attachments/assets/d4f6c72f-2b79-4f81-8824-1977d3f9a554)
-
-![ft6](https://github.com/user-attachments/assets/3b5fff72-c0dc-4cf2-a0f9-9c3c14809f42)
-
-![ft3](https://github.com/user-attachments/assets/a190f791-24b6-432b-8840-147691fe35e9)
-
-![ft8](https://github.com/user-attachments/assets/c6fa3519-e640-4ff9-9cca-366c98f6a37e)
-
-![ft4](https://github.com/user-attachments/assets/5c9af66e-8c10-45cf-8cfa-22afba364a53)
 
 
 
@@ -242,8 +228,10 @@
     <section id="galeria">
         <h2>Galería del Proyecto</h2>
         <div class="galeria">
-            <img src="ft10.jpeg" alt="Proceso 1">
-            <img src="ft6.jpeg" alt="Proceso 2">
+            <img src="![ft10](https://github.com/user-attachments/assets/954b467f-8732-49f2-96c9-0c73f1559dcc)"
+ alt="Proceso 1">
+            <img src="![ft6](https://github.com/user-attachments/assets/e9490e24-b9c4-4b57-aea2-74af0ee3f426)"
+ alt="Proceso 2">
             <img src="ft7.jpeg" alt="Proceso 3">
             <img src="ft8.jpeg" alt="Proceso 4">
         </div>
