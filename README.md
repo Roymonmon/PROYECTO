@@ -202,7 +202,7 @@
         </p>
     </section>
     <section id="galeria">
-        <h2>Galería del Proyecto</h2>
+        <h2>Wiliiam Nicholson</h2>
         <div class="galeria">
             <img src="FT1.png" alt="Proceso 1">
             <img src="ft2.png" alt="Proceso 2">
