@@ -167,7 +167,7 @@
 <body>
 
 <header>
-    <img src="a.png" alt="Logo">
+    <img src="spring1.png" alt="Logo">
     <h1>Feria de Ciencia y Tecnología 2026</h1>
     <p>Proyecto: <strong>Electrólisis</strong></p>
     <p>Integrantes:</p>
