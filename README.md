@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -203,13 +202,13 @@
             separándola en hidrógeno y oxígeno usando electricidad.
         </p>
     </section>
-     <section id="galeria">
+    <section id="galeria">
         <h2>Galería del Proyecto</h2>
         <div class="galeria">
-            <img src="![ft4](https://github.com/user-attachments/assets/2e9d98a3-2075-4450-b18b-1dab2be8e494)" alt="Proceso 1">
-            <img src="![FT1](https://github.com/user-attachments/assets/3c385e28-4fe2-4cbf-b7b8-8ff01331464e)" alt="Proceso 2">
-            <img src="![ft2](https://github.com/user-attachments/assets/1d3c18ef-23ec-4cd3-8126-26ab40750409)" alt="Proceso 3">
-            <img src="ft8.jpeg" alt="Proceso 4">
+            <img src="FT1.png" alt="Proceso 1">
+            <img src="ft2.png" alt="Proceso 2">
+            <img src="ft4.png" alt="Proceso 3">
+       
         </div>
     </section>
 
@@ -232,13 +231,10 @@
     <section id="galeria">
         <h2>Galería del Proyecto</h2>
         <div class="galeria">
-            <img src="![ft10](https://github.com/user-attachments/assets/954b467f-8732-49f2-96c9-0c73f1559dcc)"
- alt="Proceso 1">
-            <img src="![ft6](https://github.com/user-attachments/assets/e9490e24-b9c4-4b57-aea2-74af0ee3f426)"
- alt="Proceso 2">
-            <img src="![ft7](https://github.com/user-attachments/assets/bfb786a6-1bba-4680-996d-fde9f3f42cbd)"
- alt="Proceso 3">
-        
+            <img src="ft10.jpeg" alt="Proceso 1">
+            <img src="ft6.jpeg" alt="Proceso 2">
+            <img src="ft7.jpeg" alt="Proceso 3">
+            
         </div>
     </section>
 
@@ -283,7 +279,7 @@
 </div>
 
 <footer>
-    <p>© 2026 - Escuela Secundaria Técnica - Proyecto Feria de Ciencias</p>
+    <p>© 2026 - Escuela Secundaria  - Proyecto Feria de Ciencias</p>
 </footer>
 
 </body>
