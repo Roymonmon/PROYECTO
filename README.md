@@ -208,6 +208,15 @@
             separándola en hidrógeno y oxígeno usando electricidad.
         </p>
     </section>
+     <section id="galeria">
+        <h2>Galería del Proyecto</h2>
+        <div class="galeria">
+            <img src="ft10.jpeg" alt="Proceso 1">
+            <img src="ft6.jpeg" alt="Proceso 2">
+            <img src="ft7.jpeg" alt="Proceso 3">
+            <img src="ft8.jpeg" alt="Proceso 4">
+        </div>
+    </section>
 
     <section id="electrolisis">
         <h2>¿Qué es la Electrólisis?</h2>
@@ -232,8 +241,9 @@
  alt="Proceso 1">
             <img src="![ft6](https://github.com/user-attachments/assets/e9490e24-b9c4-4b57-aea2-74af0ee3f426)"
  alt="Proceso 2">
-            <img src="ft7.jpeg" alt="Proceso 3">
-            <img src="ft8.jpeg" alt="Proceso 4">
+            <img src="![ft7](https://github.com/user-attachments/assets/bfb786a6-1bba-4680-996d-fde9f3f42cbd)"
+ alt="Proceso 3">
+        
         </div>
     </section>
 
